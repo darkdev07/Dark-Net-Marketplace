@@ -1,7 +1,7 @@
 #  Just some reference for my work see about me from my aboutme repository
 
-So you wanna create a marketplace, and you need to find a dev, dark php is here<br \>
-tough its a pseudo name but it sounds cool <br \>
+So you wanna create a marketplace, and you need to find a dev, dark php is here<br />
+tough its a pseudo name but it sounds cool <br />
 
 # How to proceed with the order 
 
